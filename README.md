@@ -1,1 +1,1 @@
-This repository contains code used to process data to evaluate the performance of a low temperature geothermal exchange system in the upper-Midwest of the US. The code is a workbook, with many different approaches to evaluation and processing.
+This repository contains code used to process data to evaluate the performance of a low temperature geothermal exchange system in the upper-Midwest of the US. The code is a workbook, with many different evaluations of the data.
